@@ -4,9 +4,9 @@
 
 # Intellectuele eigendom
 
-- [Octrooi](./chapter_1.md)
-- [Merken]()
-- [Auteursrecht]()
+- [Octrooi](./octrooi.md)
+- [Merken](./merken.md)
+- [Auteursrecht](./auteursrecht.md)
 - [Computerprogramma's]()
 - [Databankrecht]()
 - [Chips - Domeinnamen]()
