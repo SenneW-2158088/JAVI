@@ -154,9 +154,7 @@ Als een nieuw merk identiek of vergelijkbaar is met een bestaand merk, maar word
 - **EHJ 22 september 2011**: Google Adwords legitiem gebruik van concurrerend merk voor aanbieden van alternatieven, mits geen verwarring over herkomst.
 - **EHJ 22 december 2022**: Amazon aansprakelijk voor niet-toegestaan gebruik van merken in aanbiedingen van derden indien gebruikers een verband leggen tussen Amazon en het betrokken merk.
 
-## Hoofdstuk 2: Handelsnamen
-
-## Algemene Kenmerken
+## Handelsnamen
 
 - Tekens die de onderneming zelf aanduiden, niet de waren/diensten.
 - **Voorwaarden**:
@@ -168,9 +166,7 @@ Als een nieuw merk identiek of vergelijkbaar is met een bestaand merk, maar word
   - Geen identieke of gelijkaardige handelsnamen in beschermd territorium indien verwarrend.
   - Territoriaal beperkt tot plaats van bekendheid.
 
-## Hoofdstuk 3: Vormgevingen (Tekeningen & Modellen)
-
-## Algemene Kenmerken
+## Vormgevingen
 
 - **Types**:
   - 2-dimensioneel (tekening).
