@@ -1,25 +1,23 @@
 # Summary
 
-- [Overzicht]()
+- [Overzicht](./overzicht.md)
 
 # Intellectuele eigendom
 
 - [Octrooi](./octrooi.md)
 - [Merken](./merken.md)
 - [Auteursrecht](./auteursrecht.md)
-- [Computerprogramma's]()
-- [Databankrecht]()
-- [Chips - Domeinnamen]()
+- [Computerprogramma's](./computer_programmas.md)
 
 # Privacy
 
-- [Algemeen]()
-- [Strafrechtelijke bescherming]()
-- [Privacy op de werkvloer]()
-- [Ongevraagde elektronische communicatie]()
-- [GDPR]()
+- [Algemeen](./privacy_algemeen.md)
+- [GDPR](./privacy_gdpr.md)
+- [Cookies](./privacy_cookies.md)
 
 # Verbintenissenrecht
+
+- [Verbintenissenrecht](./verbintenissenrecht.md)
 
 # Economisch recht
 
